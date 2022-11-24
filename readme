@@ -1,0 +1,3 @@
+The application uses h2 database in order to store and retrieve student information for rating.
+
+The database creation and tabel creation are done in StructureCreation.java file..
